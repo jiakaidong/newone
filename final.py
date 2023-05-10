@@ -9,8 +9,6 @@ Original file is located at
 **STEP 1**: The notebook shall connect to the ecsel_database.db and extract the list of countries in a dataframe.
 """
 
-pip install streamlit
-
 import sqlite3
 import pandas as pd
 import streamlit as st
